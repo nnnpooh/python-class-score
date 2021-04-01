@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/python-class-score/static/css/main.88cdc811.chunk.css",
-    "main.js": "/python-class-score/static/js/main.7f01aa01.chunk.js",
-    "main.js.map": "/python-class-score/static/js/main.7f01aa01.chunk.js.map",
-    "runtime-main.js": "/python-class-score/static/js/runtime-main.f62f3de3.js",
-    "runtime-main.js.map": "/python-class-score/static/js/runtime-main.f62f3de3.js.map",
-    "static/js/2.6855dd06.chunk.js": "/python-class-score/static/js/2.6855dd06.chunk.js",
-    "static/js/2.6855dd06.chunk.js.map": "/python-class-score/static/js/2.6855dd06.chunk.js.map",
-    "static/js/3.06f6b463.chunk.js": "/python-class-score/static/js/3.06f6b463.chunk.js",
-    "static/js/3.06f6b463.chunk.js.map": "/python-class-score/static/js/3.06f6b463.chunk.js.map",
+    "main.js": "/python-class-score/static/js/main.0b1e5bb0.chunk.js",
+    "main.js.map": "/python-class-score/static/js/main.0b1e5bb0.chunk.js.map",
+    "runtime-main.js": "/python-class-score/static/js/runtime-main.0dc69483.js",
+    "runtime-main.js.map": "/python-class-score/static/js/runtime-main.0dc69483.js.map",
+    "static/css/2.27175f2b.chunk.css": "/python-class-score/static/css/2.27175f2b.chunk.css",
+    "static/js/2.bd8b082f.chunk.js": "/python-class-score/static/js/2.bd8b082f.chunk.js",
+    "static/js/2.bd8b082f.chunk.js.map": "/python-class-score/static/js/2.bd8b082f.chunk.js.map",
+    "static/js/3.520ccfab.chunk.js": "/python-class-score/static/js/3.520ccfab.chunk.js",
+    "static/js/3.520ccfab.chunk.js.map": "/python-class-score/static/js/3.520ccfab.chunk.js.map",
     "index.html": "/python-class-score/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/python-class-score/static/css/2.27175f2b.chunk.css.map",
     "static/css/main.88cdc811.chunk.css.map": "/python-class-score/static/css/main.88cdc811.chunk.css.map",
-    "static/js/2.6855dd06.chunk.js.LICENSE.txt": "/python-class-score/static/js/2.6855dd06.chunk.js.LICENSE.txt"
+    "static/js/2.bd8b082f.chunk.js.LICENSE.txt": "/python-class-score/static/js/2.bd8b082f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f62f3de3.js",
-    "static/js/2.6855dd06.chunk.js",
+    "static/js/runtime-main.0dc69483.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.bd8b082f.chunk.js",
     "static/css/main.88cdc811.chunk.css",
-    "static/js/main.7f01aa01.chunk.js"
+    "static/js/main.0b1e5bb0.chunk.js"
   ]
 }
